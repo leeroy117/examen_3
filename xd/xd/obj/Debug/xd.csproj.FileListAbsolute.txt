@@ -1,0 +1,9 @@
+C:\Users\Leero\source\repos\xd\xd\bin\Debug\xd.exe.config
+C:\Users\Leero\source\repos\xd\xd\bin\Debug\xd.exe
+C:\Users\Leero\source\repos\xd\xd\bin\Debug\xd.pdb
+C:\Users\Leero\source\repos\xd\xd\obj\Debug\xd.csprojAssemblyReference.cache
+C:\Users\Leero\source\repos\xd\xd\obj\Debug\xd.Properties.Resources.resources
+C:\Users\Leero\source\repos\xd\xd\obj\Debug\xd.csproj.GenerateResource.cache
+C:\Users\Leero\source\repos\xd\xd\obj\Debug\xd.csproj.CoreCompileInputs.cache
+C:\Users\Leero\source\repos\xd\xd\obj\Debug\xd.exe
+C:\Users\Leero\source\repos\xd\xd\obj\Debug\xd.pdb
